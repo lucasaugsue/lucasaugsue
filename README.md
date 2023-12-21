@@ -28,10 +28,6 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou apaixonado por tecnologia e desen
 
 ## Como Entrar em Contato
 
-- 📧 E-mail: [lucasaugsue7@gmail.com](mailto:lucasaugsue7@gmail.com)
-- 💼 LinkedIn: [Lucas Augsuê](https://www.linkedin.com/in/lucas-augsue/)
-- 📷 Instagram: [lucas_augsue](https://www.instagram.com/lucas_augsue/)
-
 <div> 
   <a href = "mailto:lucasaugsue7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-augsue/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
