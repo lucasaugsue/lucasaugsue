@@ -40,8 +40,8 @@ Principais Recursos:
 
 🎁 Lista de Presentes: Apresenta os presentes que desejamos para nossa nova etapa de vida. Os amigos podem até contribuir através de PIX para nos ajudar a realizar esses sonhos.
 
-- [Site]  ([Link do Projeto 1](https://github.com/lucasaugsue/casamento-site)): Utilizei a Vercel para realizar o deploy do frontend do meu projeto, utilizando o Next.js, e comecei a implementar testes de snapshot usando o Jest.
-- [Api]  ([Link do Projeto 2](https://github.com/lucasaugsue/casamento-api-express)https://github.com/lucasaugsue/casamento-api-express): Quanto ao backend, optei pelo Node.js com o Express.js. A API foi implantada na plataforma Cyclic, e para a persistência dos dados, escolhi o MongoDB. Realizei testes unitários usando o Jest também para os endpoints.
+- [Site]  ([Link do Projeto 1] (https://github.com/lucasaugsue/casamento-site)): Utilizei a Vercel para realizar o deploy do frontend do meu projeto, utilizando o Next.js, e comecei a implementar testes de snapshot usando o Jest.
+- [Api]  ([Link do Projeto 2] (https://github.com/lucasaugsue/casamento-api-express): Quanto ao backend, optei pelo Node.js com o Express.js. A API foi implantada na plataforma Cyclic, e para a persistência dos dados, escolhi o MongoDB. Realizei testes unitários usando o Jest também para os endpoints.
 
 ## Como Entrar em Contato
 
