@@ -28,7 +28,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou apaixonado por tecnologia e desen
 
 ## Projetos Destacados
 
-Sita do meu casamento:
+Site do meu casamento:
 
 Esse é um projeto para auxiliar no meu sonho em casar no meio do ano de 2024, por isso resolvi eu mesmo fazer o site do meu casamento para colocar algumas informações importantes que eu e minha noiva vamos precisar passar para os convidados como a lista de presença, um pouco da informação dos noivos e a lista de presentes que os noivos desejam.
 
@@ -40,8 +40,8 @@ Principais Recursos:
 
 🎁 Lista de Presentes: Apresenta os presentes que desejamos para nossa nova etapa de vida. Os amigos podem até contribuir através de PIX para nos ajudar a realizar esses sonhos.
 
-- [Site]  ([Link do Projeto 1] (https://github.com/lucasaugsue/casamento-site)): Utilizei a Vercel para realizar o deploy do frontend do meu projeto, utilizando o Next.js, e comecei a implementar testes de snapshot usando o Jest.
-- [Api]  ([Link do Projeto 2] (https://github.com/lucasaugsue/casamento-api-express): Quanto ao backend, optei pelo Node.js com o Express.js. A API foi implantada na plataforma Cyclic, e para a persistência dos dados, escolhi o MongoDB. Realizei testes unitários usando o Jest também para os endpoints.
+- [Site]  (https://github.com/lucasaugsue/casamento-site): Utilizei a Vercel para realizar o deploy do frontend do meu projeto, utilizando o Next.js, e comecei a implementar testes de snapshot usando o Jest.
+- [Api]  (https://github.com/lucasaugsue/casamento-api-express): Quanto ao backend, optei pelo Node.js com o Express.js. A API foi implantada na plataforma Cyclic, e para a persistência dos dados, escolhi o MongoDB. Realizei testes unitários usando o Jest também para os endpoints.
 
 ## Como Entrar em Contato
 
