@@ -8,12 +8,6 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou apaixonado por tecnologia e desen
 - 💻 Trabalho com JavaScript, HTML, CSS, React, Node.js, e Jest para testes.
 - 🚀 Sempre em busca de aprendizado e aplicação prática de novas tecnologias.
 
-## Estatísticas do GitHub
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaugsue&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ## Habilidades
 
 <div style="display: inline_block"><br>
@@ -26,13 +20,11 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou apaixonado por tecnologia e desen
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 
-## Como Entrar em Contato
+## Estatísticas do GitHub
 
-<div> 
-  <a href = "mailto:lucasaugsue7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-augsue/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/lucas_augsue/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaugsue&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Projetos Destacados
 
@@ -51,4 +43,10 @@ Principais Recursos:
 - [Site]  ([Link do Projeto 1](https://github.com/lucasaugsue/casamento-site)): Utilizei a Vercel para realizar o deploy do frontend do meu projeto, utilizando o Next.js, e comecei a implementar testes de snapshot usando o Jest.
 - [Api]  ([Link do Projeto 2](https://github.com/lucasaugsue/casamento-api-express)https://github.com/lucasaugsue/casamento-api-express): Quanto ao backend, optei pelo Node.js com o Express.js. A API foi implantada na plataforma Cyclic, e para a persistência dos dados, escolhi o MongoDB. Realizei testes unitários usando o Jest também para os endpoints.
 
-  
+## Como Entrar em Contato
+
+<div> 
+  <a href = "mailto:lucasaugsue7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-augsue/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/lucas_augsue/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
